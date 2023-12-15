@@ -1,6 +1,6 @@
 👋 Hi, I am Hangjie Yuan (**袁杭杰** in Chinese). 
 I am currently a Ph.D. candidate from Zhejiang University supervised by Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), and a long-term research intern in Alibaba DAMO Academy.
-Additionally, I am supervised by Prof. [Ziwei Liu](https://liuziwei7.github.io/) (MMLab@NTU), Prof. [Samuel Albanie](https://samuelalbanie.com/) (the University of Cambridge) and Dr. [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao) (Alibaba DAMO Academy).
+Additionally, I am supervised by Prof. [Samuel Albanie](https://samuelalbanie.com/) (the University of Cambridge), Prof. [Ziwei Liu](https://liuziwei7.github.io/) (MMLab@NTU) and Dr. [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao) (Alibaba DAMO Academy).
 You can know more about me on this [page](https://jacobyuan7.github.io/).
 
 <!-- - 👋 Hi, I’m @JacobYuan7
