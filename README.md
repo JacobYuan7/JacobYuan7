@@ -4,6 +4,8 @@ Additionally, I am supervised by Prof. [Samuel Albanie](https://samuelalbanie.co
 
 Wanna keep up with my adventures? Click on over to my [personal page](https://jacobyuan7.github.io/) for all the latest and greatest.
 
+Some of my representative works include InstructVideo, VideoComposer, RLIP/RLIPv2...
+
 <!-- You can know more about me on this [page](https://jacobyuan7.github.io/).-->
 
 <!-- - 👋 Hi, I’m @JacobYuan7
